@@ -1,0 +1,7 @@
+2013-12-05 00:56:36,316 DEBUG Started
+2013-12-05 00:56:37,051 ERROR 
+2013-12-05 00:56:44,723 ERROR 
+2013-12-05 00:56:44,723 DEBUG flickr2history: Started flickr2history
+2013-12-05 00:56:45,439 ERROR <class 'flickr.FlickrError'>
+2013-12-05 00:56:45,441 DEBUG tags2set: Started tags2set
+2013-12-05 00:56:46,194 ERROR <class 'flickr.FlickrError'>
